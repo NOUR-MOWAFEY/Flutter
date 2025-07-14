@@ -1,0 +1,2 @@
+D:/old_windows_10/desktop/FlutterApp/news_app/android/app/.cxx/Debug/624p3m2k/x86/CMakeFiles/edit_cache.dir
+D:/old_windows_10/desktop/FlutterApp/news_app/android/app/.cxx/Debug/624p3m2k/x86/CMakeFiles/rebuild_cache.dir
