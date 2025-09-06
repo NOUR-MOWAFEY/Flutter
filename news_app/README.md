@@ -1,16 +1,1 @@
-# news_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A mobile application built with Flutter that fetches the latest news articles directly from the internet using an API. The app displays real-time headlines and detailed articles with a clean and responsive user interface. Users can browse different categories, read full stories, and stay updated with current events. This project highlights skills in API integration, state management, and building user-friendly UI components.
